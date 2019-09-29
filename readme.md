@@ -10,3 +10,5 @@
     - Redux-observable
     - RxJs
     - Jest
+
+Что должно получиться на воркшопе: [финальный результат](https://github.com/thebraid/gdg-redux-observable-origin) 
